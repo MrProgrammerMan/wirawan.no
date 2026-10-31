@@ -5,7 +5,7 @@ function App() {
     <main>
       <h1>59.67288°N, 10.78346°Ø</h1>
       <p>
-        &lt;Ukjent tidspunkt/&gt;
+        &lt;9. November 18:00&gt;
       </p>
       <p>Videre instruksjoner følger</p>
     </main>
