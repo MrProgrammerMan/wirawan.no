@@ -3,9 +3,9 @@ import './App.css'
 function App() {
   return (
     <main>
-      <h1>59.67288°N, 10.78346°Ø</h1>
+      <h1>59.6777172°N, 10.7741714°Ø</h1>
       <p>
-        &lt;9. November 18:00&gt;
+        9. November 17:00
       </p>
       <p>Videre instruksjoner følger</p>
     </main>
